@@ -19,8 +19,6 @@ Users of this software are expected to use this software responsibly while abidi
 
 ## How do I install it?
 
-**Issues regarding installation will be closed from now on, we cannot handle the amount of requests.**
-
 There are two types of installations: basic and gpu-powered.
 
 - **Basic:** It is more likely to work on your computer but it will also be very slow. You can follow instructions for the basic install [here](https://github.com/s0md3v/roop/wiki/1.-Installation).
